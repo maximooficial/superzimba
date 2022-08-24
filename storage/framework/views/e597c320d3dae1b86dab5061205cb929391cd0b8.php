@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Super Zimbar 1.0</title>
+        <title>Super Zimbar 1.3</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -130,4 +130,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH /var/www/html/superzimbar/resources/views/welcome.blade.php ENDPATH**/ ?>
+<?php /**PATH /var/www/html/superzimba/resources/views/welcome.blade.php ENDPATH**/ ?>
